@@ -1,5 +1,6 @@
 /*****************************
 * Variables and data types
+* Some Test Comments
 */
 /*
 var firstName = 'John';
